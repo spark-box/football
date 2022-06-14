@@ -1,6 +1,5 @@
 # How to Contribute
 
-# ############## Fehler #####################
 
 # Issues
 
