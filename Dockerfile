@@ -1,7 +1,7 @@
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
-# Feature 2 - master
+# Feature 2 vom Dockerfile
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get --no-install-recommends install -yq git cmake build-essential \
